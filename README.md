@@ -2,6 +2,9 @@
 
 This chatbot project is built using HTML, CSS, and JavaScript for the frontend, and Node.js with Express for the backend. It integrates with the Google Generative AI API to provide intelligent responses to user inputs. The project demonstrates how to create a simple yet functional chatbot interface with a clean and modern design using Tailwind CSS.
 
+# Image Demo
+![Demo](demo\image.png)
+
 ## Installation Guide
 
 Follow these steps to set up and run the chatbot project on your local machine.
